@@ -12,7 +12,7 @@
 <strong>ShopEase Retail</strong> is a fast-growing e-commerce fashion retailer operating across Clothing, Accessories, Footwear, and Outerwear categories.
 </p>
 <p>
-With approximately <strong>3,900 active customers</strong> and thousands of transactions over the last 12 months, ShopEase has accumulated detailed transactional and behavioral data spanning revenue, purchasing patterns, discounts, subscription status, and demographic segmentation.
+With approximately <strong>3900 active customers</strong> and thousands of transactions over the last 12 months, ShopEase has accumulated detailed transactional and behavioral data spanning revenue, purchasing patterns, discounts, subscription status, and demographic segmentation.
 </p>
 <p>
 Reporting to the <strong>Head of Commercial Strategy</strong>, this analysis was conducted to evaluate revenue drivers, customer loyalty dynamics, product performance, and long-term profitability risks.
@@ -43,26 +43,20 @@ The objective of this report is to provide clear, data-backed strategic recommen
 
 <div align="center">
 <h1>Executive Overview</h1>
-<img width="900" src="images/Executive KPI Overview.png" alt="Executive KPI Overview Placeholder"/>
+<img width="900" src="images/Executive KPI Overview2.png" alt="Executive KPI Overview Placeholder"/>
 </div>
 
-<table align="center" width="1000"> 
-<tr>
-<td>
-
 <ul>
-<li>Clothing is the dominant revenue category.</li>
-<li>Young Adults and Middle-Aged customers drive the majority of revenue.</li>
-<li>Male customers contribute higher total revenue.</li>
-<li>Subscribers demonstrate stronger repeat purchase behavior.</li>
-<li>Discounting significantly influences purchase decisions across specific products.</li>
+<li>The business currently serves approximately 3,900 active customers, with revenue primarily driven by a single dominant category: Clothing.</li>
+<li>Customer purchasing behavior shows strong loyalty patterns but limited new customer expansion.</li>
+<li>Revenue is concentrated across:</li>
+    <ul>
+        <li>Specific product categories</li>
+        <li>Select demographic segments</li>
+        <li>Repeat customers</li>
+    </ul>
+<li>This concentration creates both stability and structural risk.</li>
 </ul>
-
-</td>
-</tr>
-</table>
-
-<br><hr><br>
 
 <h1 align="center">Revenue & Category Performance</h1>
 
