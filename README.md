@@ -43,7 +43,7 @@ The objective of this report is to provide clear, data-backed strategic recommen
 
 <div align="center">
 <h1>Executive Overview</h1>
-<img width="900" src="images/Executive KPI Overview2.png" alt="Executive KPI Overview Placeholder"/>
+<img width="900" src="images/Executive KPI Overview.png" alt="Executive KPI Overview Placeholder"/>
 </div>
 
 <ul>
