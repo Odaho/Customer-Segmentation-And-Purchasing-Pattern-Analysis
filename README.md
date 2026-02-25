@@ -43,9 +43,10 @@ The objective of this report is to provide clear, data-backed strategic recommen
 
 <div align="center">
 <h1>Executive Overview</h1>
+    <br></br>
 <img width="2500" src="images/Executive KPI Overview.png" alt="Executive KPI Overview Placeholder"/>
 </div>
-
+<br></br>
 <ul>
 <li>The business currently serves approximately 3,900 active customers, with revenue primarily driven by a single dominant category: Clothing.</li>
 <li>Customer purchasing behavior shows strong loyalty patterns but limited new customer expansion.</li>
@@ -58,26 +59,60 @@ The objective of this report is to provide clear, data-backed strategic recommen
 <li>This concentration creates both stability and structural risk.</li>
 </ul>
 
-<h1 align="center">Revenue & Category Performance</h1>
+<h1 align="center">Revenue & Volume Performance by Category</h1>
+
+<h2 align="center">Revenue by Category</h2>
 
 <div align="center">
-<img width="600" src="images/Revenue By Product.png" alt="Revenue by Category Placeholder"/>
+<img width="650" src="images/Revenue By Product Category.png" alt="Revenue by Category"/>
 </div>
 
 <table align="center" width="1000">
 <tr>
 <td>
 
-<h3>Key Findings</h3>
+<h3>Revenue Insights</h3>
 
 <ul>
-<li>Revenue concentration is heavily skewed toward Clothing.</li>
-<li>Accessories act as a secondary revenue driver.</li>
-<li>Footwear and Outerwear underperform comparatively.</li>
-<li>Revenue patterns closely mirror unit volume, indicating demand-driven growth rather than price inflation.</li>
+<li>Revenue is heavily concentrated in the <strong>Clothing</strong> category, making it the primary commercial driver.</li>
+<li><strong>Accessories</strong> contribute meaningful secondary revenue but at a materially lower level than Clothing.</li>
+<li><strong>Footwear</strong> and <strong>Outerwear</strong> generate comparatively lower revenue contribution.</li>
+<li>Revenue distribution indicates limited diversification across categories.</li>
 </ul>
 
-<p><strong>Commercial Risk:</strong> Category dependency increases exposure to demand volatility.</p>
+<p><strong>Commercial Risk:</strong> High dependency on a single category increases exposure to demand volatility and seasonal fluctuations.</p>
+
+<p><strong>Strategic Consideration:</strong> Revenue diversification initiatives should be explored to reduce structural concentration risk.</p>
+
+</td>
+</tr>
+</table>
+
+<br><br>
+
+
+<h2 align="center">Units Sold by Category</h2>
+
+<div align="center">
+<img width="650" src="images/Unit Sold By Product Category.png" alt="Units Sold by Category"/>
+</div>
+
+<table align="center" width="1000">
+<tr>
+<td>
+
+<h3>Volume Insights</h3>
+
+<ul>
+<li><strong>Clothing</strong> leads in total units sold, confirming strong underlying customer demand.</li>
+<li>Accessories maintain moderate volume performance, supporting their role as a complementary category.</li>
+<li>Footwear and Outerwear show lower unit volumes, indicating weaker demand relative to other categories.</li>
+<li>Volume patterns closely mirror revenue patterns, suggesting that revenue performance is primarily driven by demand rather than price variation.</li>
+</ul>
+
+<p><strong>Demand Insight:</strong> Revenue strength in Clothing is volume-driven, not price-driven.</p>
+
+<p><strong>Operational Implication:</strong> Inventory planning should prioritize high-demand categories to prevent stock constraints.</p>
 
 </td>
 </tr>
