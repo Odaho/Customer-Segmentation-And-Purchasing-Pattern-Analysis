@@ -62,7 +62,6 @@ The objective of this report is to provide clear, data-backed strategic recommen
 
 <div align="center">
 <img width="300" src="images/Revenue By Product.png" alt="Revenue by Category Placeholder"/>
-<img width="300" src="images/Unit Sold By Product Category.png" alt="Units Sold by Category Placeholder"/>
 </div>
 
 <table align="center" width="1000">
