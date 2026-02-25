@@ -123,7 +123,7 @@ The objective of this report is to provide clear, data-backed strategic recommen
 <h1 align="center">Demographic Revenue Contribution</h1>
 
 <div align="center">
-<img width="900" src="images/Revenue_by_Age_Group.png" alt="Revenue by Age Group Placeholder"/>
+<img width="900" src="images/Revenue by Age Group.png" alt="Revenue by Age Group Placeholder"/>
 </div>
 
 <table align="center" width="1000">
@@ -147,7 +147,7 @@ The objective of this report is to provide clear, data-backed strategic recommen
 <h1 align="center">Customer Segmentation Analysis</h1>
 
 <div align="center">
-<img width="900" src="images/Customer_Segmentation.png" alt="Customer Segmentation Placeholder"/>
+<img width="900" src="images/Revenue by Age Group.png" alt="Customer Segmentation Placeholder"/>
 </div>
 
 <table align="center" width="1000">
