@@ -61,8 +61,8 @@ The objective of this report is to provide clear, data-backed strategic recommen
 <h1 align="center">Revenue & Category Performance</h1>
 
 <div align="center">
-<img width="450" src="images/Revenue_by_Category.png" alt="Revenue by Category Placeholder"/>
-<img width="450" src="images/Units_Sold_by_Category.png" alt="Units Sold by Category Placeholder"/>
+<img width="500" src="images/Revenue By Product.png" alt="Revenue by Category Placeholder"/>
+<img width="500" src="images/Unit Sold By Product Category.png" alt="Units Sold by Category Placeholder"/>
 </div>
 
 <table align="center" width="1000">
