@@ -1,21 +1,320 @@
-# Project Background
+<body style="font-family: Arial, Helvetica, sans-serif; line-height: 1.6;">
 
-Customer-Segmentation-And-Purchasing-Pattern-Analysis examines purchasing behavior, revenue concentration, and customer loyalty dynamics within a multi-category retail business. Operating in a competitive consumer market, the company must continuously optimize pricing strategy, promotional effectiveness, and retention initiatives to sustain commercial growth.
+<div align="center">
+    <h1>Customer Segmentation & Purchasing-Pattern Report</h1>
+</div>
 
-The dataset includes 3,900 customers and 3,900 transactions, generating over $230,000 in revenue across product categories such as Clothing, Accessories, Footwear, and Outerwear. The available transactional data spans multiple behavioral and operational dimensions, including demographic segmentation, subscription participation, discount utilization, shipping preferences, product ratings, and historical purchase frequency.
+<table align="center" width="1000">
+<tr>
+<td>
+<h2 align="center">Project Background</h2>
+<p>
+<strong>ShopEase Retail</strong> is a fast-growing e-commerce fashion retailer operating across Clothing, Accessories, Footwear, and Outerwear categories.
+</p>
+<p>
+With approximately <strong>3,900 active customers</strong> and thousands of transactions over the last 12 months, ShopEase has accumulated detailed transactional and behavioral data spanning revenue, purchasing patterns, discounts, subscription status, and demographic segmentation.
+</p>
+<p>
+Reporting to the <strong>Head of Commercial Strategy</strong>, this analysis was conducted to evaluate revenue drivers, customer loyalty dynamics, product performance, and long-term profitability risks.
+</p>
+<p>
+The objective of this report is to provide clear, data-backed strategic recommendations to enhance:
+</p>
+<ul>
+<li>Revenue growth sustainability</li>
+<li>Customer acquisition and retention</li>
+<li>Subscription program performance</li>
+<li>Margin protection and discount optimization</li>
+<li>Demographic targeting strategy</li>
+</ul>
+<h3 >Northstar Metrics</h3>
 
-Reporting to commercial stakeholders, a structured SQL and business intelligence analysis was conducted to evaluate performance drivers and identify opportunities to improve revenue efficiency, customer retention, and product strategy.
+<ul>
+<li><strong>Total Revenue Performance</strong> – Category and demographic contribution</li>
+<li><strong>Average Purchase Value (APV)</strong> – Basket size trends</li>
+<li><strong>Customer Segmentation</strong> – New vs Returning vs Loyal</li>
+<li><strong>Subscription Impact</strong> – Revenue and repeat purchase comparison</li>
+<li><strong>Discount Sensitivity</strong> – Product-level dependency on promotions</li>
+</ul>
 
-The key insights and recommendations focus on the following areas:
+</td>
+</tr>
+</table>
 
-# Northstar Metrics
+<div align="center">
+<h1>Executive Overview</h1>
+<img width="900" src="https://drive.google.com/file/d/11a0O1B9kua2tdvp58JEb75nWPQNXcbKE/view?usp=sharing" alt="Executive KPI Overview Placeholder"/>
+</div>
 
-• Customer Segmentation – Analyzing the distribution of New, Returning, and Loyal customers and evaluating revenue contribution by segment.
+<table align="center" width="1000"> 
+<tr>
+<td>
 
-• Purchasing Patterns – Examining average order value (AOV), discount impact, and demographic spending behavior.
+<ul>
+<li>Clothing is the dominant revenue category.</li>
+<li>Young Adults and Middle-Aged customers drive the majority of revenue.</li>
+<li>Male customers contribute higher total revenue.</li>
+<li>Subscribers demonstrate stronger repeat purchase behavior.</li>
+<li>Discounting significantly influences purchase decisions across specific products.</li>
+</ul>
 
-• Product Performance – Identifying top-selling and highest-rated products, and assessing category-level revenue concentration.
+</td>
+</tr>
+</table>
 
-• Subscription Effectiveness – Evaluating subscriber contribution to total revenue and correlation with repeat buyer behavior.
+<br><hr><br>
 
-• Revenue Intelligence – Measuring revenue distribution by age group, gender, and product category to identify primary growth drivers.
+<h1 align="center">Revenue & Category Performance</h1>
+
+<div align="center">
+<img width="450" src="images/Revenue_by_Category.png" alt="Revenue by Category Placeholder"/>
+<img width="450" src="images/Units_Sold_by_Category.png" alt="Units Sold by Category Placeholder"/>
+</div>
+
+<table align="center" width="1000">
+<tr>
+<td>
+
+<h3>Key Findings</h3>
+
+<ul>
+<li>Revenue concentration is heavily skewed toward Clothing.</li>
+<li>Accessories act as a secondary revenue driver.</li>
+<li>Footwear and Outerwear underperform comparatively.</li>
+<li>Revenue patterns closely mirror unit volume, indicating demand-driven growth rather than price inflation.</li>
+</ul>
+
+<p><strong>Commercial Risk:</strong> Category dependency increases exposure to demand volatility.</p>
+
+</td>
+</tr>
+</table>
+
+<br><hr><br>
+
+<h1 align="center">Demographic Revenue Contribution</h1>
+
+<div align="center">
+<img width="900" src="images/Revenue_by_Age_Group.png" alt="Revenue by Age Group Placeholder"/>
+</div>
+
+<table align="center" width="1000">
+<tr>
+<td>
+
+<ul>
+<li>Young Adults and Middle-Aged customers represent the highest revenue segments.</li>
+<li>Seniors contribute the lowest revenue volume.</li>
+<li>Revenue aligns strongly with purchase frequency across age groups.</li>
+</ul>
+
+<p><strong>Strategic Implication:</strong> Marketing investment should prioritize high-yield demographic groups.</p>
+
+</td>
+</tr>
+</table>
+
+<br><hr><br>
+
+<h1 align="center">Customer Segmentation Analysis</h1>
+
+<div align="center">
+<img width="900" src="images/Customer_Segmentation.png" alt="Customer Segmentation Placeholder"/>
+</div>
+
+<table align="center" width="1000">
+<tr>
+<td>
+
+<table align="center" border="1" cellpadding="8">
+<tr>
+<th>Segment</th>
+<th>Definition</th>
+</tr>
+<tr>
+<td>New</td>
+<td>1 Purchase</td>
+</tr>
+<tr>
+<td>Returning</td>
+<td>2–10 Purchases</td>
+</tr>
+<tr>
+<td>Loyal</td>
+<td>More than 10 Purchases</td>
+</tr>
+</table>
+
+<br>
+
+<ul>
+<li>Loyal customers represent the largest proportion of total customers.</li>
+<li>New customer acquisition is comparatively low.</li>
+</ul>
+
+<p><strong>Strategic Direction:</strong> Retention mechanisms are effective; acquisition strategy requires reinforcement.</p>
+
+</td>
+</tr>
+</table>
+
+<br><hr><br>
+
+<h1 align="center">Subscription & Loyalty Impact</h1>
+
+<div align="center">
+<img width="450" src="images/Avg_Spend_by_Subscription.png" alt="Average Spend by Subscription Placeholder"/>
+<img width="450" src="images/Orders_by_Subscription.png" alt="Orders by Subscription Placeholder"/>
+</div>
+
+<table align="center" width="1000">
+<tr>
+<td>
+
+<ul>
+<li>Subscribers contribute approximately 27% of total revenue.</li>
+<li>Subscribers do not significantly outspend non-subscribers per order.</li>
+<li>Subscribers exhibit stronger repeat purchase behavior.</li>
+</ul>
+
+<p><strong>Conclusion:</strong> Subscription drives retention rather than increasing basket size.</p>
+
+</td>
+</tr>
+</table>
+
+<br><hr><br>
+
+<h1 align="center">Discount Sensitivity Analysis</h1>
+
+<div align="center">
+<img width="900" src="images/Discount_Rate_by_Product.png" alt="Discount Rate by Product Placeholder"/>
+</div>
+
+<table align="center" width="1000">
+<tr>
+<td>
+
+<ul>
+<li>High discount dependency observed in Hats, Sneakers, Coats, Sweaters, and Pants.</li>
+<li>Discount usage often coincides with above-average purchase amounts.</li>
+</ul>
+
+<p><strong>Commercial Risk:</strong> Margin compression due to promotion reliance.</p>
+<p><strong>Recommendation:</strong> Implement price elasticity testing and targeted discounting strategy.</p>
+
+</td>
+</tr>
+</table>
+
+<br><hr><br>
+
+<h1 align="center">Shipping Behavior</h1>
+
+<div align="center">
+<img width="900" src="images/Shipping_vs_Average_Spend.png" alt="Shipping Type vs Average Spend Placeholder"/>
+</div>
+
+<table align="center" width="1000">
+<tr>
+<td>
+
+<ul>
+<li>Express shipping customers demonstrate slightly higher average purchase amounts.</li>
+</ul>
+
+<p><strong>Opportunity:</strong> Introduce threshold-based free express shipping to increase basket value.</p>
+
+</td>
+</tr>
+</table>
+
+<br><hr><br>
+
+<h1 align="center">Business Risks Identified</h1>
+
+<table align="center" width="1000">
+<tr>
+<td>
+
+<ul>
+<li>Revenue concentration within Clothing category.</li>
+<li>High discount dependency on selected SKUs.</li>
+<li>Low new customer acquisition proportion.</li>
+<li>Revenue imbalance across demographic segments.</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+<br><hr><br>
+
+<h1 align="center">Strategic Recommendations</h1>
+
+<table align="center" width="1000">
+<tr>
+<td>
+
+<h3>Revenue Strategy</h3>
+<ul>
+<li>Diversify category-level revenue exposure.</li>
+<li>Optimize pricing for high-demand SKUs.</li>
+</ul>
+
+<h3>Marketing Strategy</h3>
+<ul>
+<li>Prioritize Young Adult and Middle-Aged segments.</li>
+<li>Develop gender-targeted campaigns.</li>
+<li>Strengthen new customer acquisition initiatives.</li>
+</ul>
+
+<h3>Loyalty & Subscription Strategy</h3>
+<ul>
+<li>Focus on retention-based value (exclusive access, loyalty rewards).</li>
+<li>Reduce reliance on heavy discount incentives.</li>
+</ul>
+
+<h3>Product Strategy</h3>
+<ul>
+<li>Prioritize inventory for high-rated and high-volume items.</li>
+<li>Reduce exposure to low-performing SKUs.</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+<br><hr><br>
+
+<table align="center" width="1000">
+<tr>
+<td>
+
+<h2 align="center">Technology Stack</h2>
+
+<ul>
+<li>SQL Server – Advanced Querying & Aggregation</li>
+<li>Power BI – Executive Dashboard Development</li>
+<li>Python (Jupyter Notebook) – Exploratory Analysis</li>
+<li>GitHub – Documentation & Version Control</li>
+</ul>
+
+<h2 align="center">Project Outcome</h2>
+
+<p>
+This engagement demonstrates the transformation of transactional customer data into executive-level commercial insights.
+</p>
+
+<p>
+The findings provide actionable strategies to improve profitability, retention, and long-term revenue sustainability.
+</p>
+
+</td>
+</tr>
+</table>
+
+<br><br>
+
+</body>
+</html>
