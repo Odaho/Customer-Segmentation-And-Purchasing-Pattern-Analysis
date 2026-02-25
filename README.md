@@ -1,5 +1,4 @@
-🛒 Customer Shopping Behaviour Analysis
-📌 Project Overview
+##Project Background##
 
 This project analyzes customer shopping behavior to uncover revenue drivers, purchasing patterns, customer loyalty, and subscription impact.
 Using SQL, Python (Pandas), and Power BI, raw transactional data was transformed into actionable business insights that can support marketing, pricing, retention, and inventory decisions.
