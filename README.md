@@ -195,7 +195,7 @@ The objective of this report is to provide clear, data-backed strategic recommen
 <img width="450" src="images/Oders By Subscription.png" alt="Orders by Subscription Placeholder"/>
 </div>
 
-<table align='right' border="1" cellpadding="6">
+<table align='center' border="1" cellpadding="6">
 <tr>
 <th>Metric</th>
 <th>Subscribers</th>
@@ -218,7 +218,7 @@ The objective of this report is to provide clear, data-backed strategic recommen
 </tr>
 </table>
 
-<table align="left" width="1000">
+<table align="center" width="1000">
 <tr>
 <td>
 
