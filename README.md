@@ -191,8 +191,8 @@ The objective of this report is to provide clear, data-backed strategic recommen
 <h1 align="center">Subscription & Loyalty Impact</h1>
 
 <div align="center">
-<img width="450" src="images/Avg_Spend_by_Subscription.png" alt="Average Spend by Subscription Placeholder"/>
-<img width="450" src="images/Orders_by_Subscription.png" alt="Orders by Subscription Placeholder"/>
+<img width="450" src="images/AVG Spend By Subscription.png" alt="Average Spend by Subscription Placeholder"/>
+<img width="450" src="images/Oders By Subscription.png" alt="Orders by Subscription Placeholder"/>
 </div>
 
 <table align="center" width="1000">
