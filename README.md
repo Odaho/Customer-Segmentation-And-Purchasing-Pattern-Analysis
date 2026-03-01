@@ -40,62 +40,37 @@ The objective of this report is to provide clear, data-backed strategic recommen
 </td>
 </tr>
 </table>
-<h2 align="center">Dataset Structure</h2>
+<h2 align="center">Entity Relationship Diagram (ERD)</h2>
+
+<div align="center">
+
+<table border="1" cellpadding="10" width="500">
+<tr>
+<th colspan="2">CUSTOMER_TRANSACTIONS</th>
+</tr>
+
+<tr><td><strong>PK</strong> customer_id</td><td>Unique customer identifier</td></tr>
+<tr><td>gender</td><td>Customer gender</td></tr>
+<tr><td>age_group</td><td>Customer age segment</td></tr>
+<tr><td>category</td><td>Product category</td></tr>
+<tr><td>item_purchased</td><td>Specific product purchased</td></tr>
+<tr><td>purchase_amount</td><td>Transaction value</td></tr>
+<tr><td>review_rating</td><td>Product rating (1–5)</td></tr>
+<tr><td>shipping_type</td><td>Standard or Express delivery</td></tr>
+<tr><td>subscription_status</td><td>Subscriber vs Non-Subscriber</td></tr>
+<tr><td>previous_purchases</td><td>Number of historical purchases</td></tr>
+<tr><td>discount_applied</td><td>Whether discount was used</td></tr>
+
+</table>
+
+</div>
+
+<br>
 
 <p align="center">
-The dataset consists of a transactional customer-level table containing ~3,900 records.
+<strong>Note:</strong> The dataset is structured as a single denormalized transactional table, 
+where each record represents a customer purchase event.
 </p>
-
-<table align="center" border="1" cellpadding="8">
-  <tr>
-    <th>Field</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>customer_id</td>
-    <td>Unique customer identifier</td>
-  </tr>
-  <tr>
-    <td>gender</td>
-    <td>Customer gender</td>
-  </tr>
-  <tr>
-    <td>age_group</td>
-    <td>Customer age segment</td>
-  </tr>
-  <tr>
-    <td>category</td>
-    <td>Product category</td>
-  </tr>
-  <tr>
-    <td>item_purchased</td>
-    <td>Specific product purchased</td>
-  </tr>
-  <tr>
-    <td>purchase_amount</td>
-    <td>Transaction value</td>
-  </tr>
-  <tr>
-    <td>review_rating</td>
-    <td>Product rating (1–5)</td>
-  </tr>
-  <tr>
-    <td>shipping_type</td>
-    <td>Standard or Express</td>
-  </tr>
-  <tr>
-    <td>subscription_status</td>
-    <td>Subscriber vs Non-Subscriber</td>
-  </tr>
-  <tr>
-    <td>previous_purchases</td>
-    <td>Number of historical purchases</td>
-  </tr>
-  <tr>
-    <td>discount_applied</td>
-    <td>Whether discount was used</td>
-  </tr>
-</table>
 
 <div align="center">
 <h1>Executive Overview</h1>
