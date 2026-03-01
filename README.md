@@ -40,6 +40,62 @@ The objective of this report is to provide clear, data-backed strategic recommen
 </td>
 </tr>
 </table>
+<h2 align="center">Dataset Structure</h2>
+
+<p align="center">
+The dataset consists of a transactional customer-level table containing ~3,900 records.
+</p>
+
+<table align="center" border="1" cellpadding="8">
+  <tr>
+    <th>Field</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>customer_id</td>
+    <td>Unique customer identifier</td>
+  </tr>
+  <tr>
+    <td>gender</td>
+    <td>Customer gender</td>
+  </tr>
+  <tr>
+    <td>age_group</td>
+    <td>Customer age segment</td>
+  </tr>
+  <tr>
+    <td>category</td>
+    <td>Product category</td>
+  </tr>
+  <tr>
+    <td>item_purchased</td>
+    <td>Specific product purchased</td>
+  </tr>
+  <tr>
+    <td>purchase_amount</td>
+    <td>Transaction value</td>
+  </tr>
+  <tr>
+    <td>review_rating</td>
+    <td>Product rating (1–5)</td>
+  </tr>
+  <tr>
+    <td>shipping_type</td>
+    <td>Standard or Express</td>
+  </tr>
+  <tr>
+    <td>subscription_status</td>
+    <td>Subscriber vs Non-Subscriber</td>
+  </tr>
+  <tr>
+    <td>previous_purchases</td>
+    <td>Number of historical purchases</td>
+  </tr>
+  <tr>
+    <td>discount_applied</td>
+    <td>Whether discount was used</td>
+  </tr>
+</table>
 
 <div align="center">
 <h1>Executive Overview</h1>
@@ -236,67 +292,90 @@ The objective of this report is to provide clear, data-backed strategic recommen
 
 <br><hr><br>
 
-<h2>Business Risks Identified</h2>
+<h1 align="center">Business Risks Identified</h1>
+
+<table align="center" width="1000">
+<tr>
+<td>
 
 <ul>
-    <li>Revenue concentration in Clothing category</li>
-    <li>High discount dependency in specific products</li>
-    <li>Low new customer acquisition ratio</li>
-    <li>Revenue imbalance across demographic segments</li>
+<li>Revenue concentration within Clothing category.</li>
+<li>High discount dependency on selected SKUs.</li>
+<li>Low new customer acquisition proportion.</li>
+<li>Revenue imbalance across demographic segments.</li>
 </ul>
 
-<hr>
+</td>
+</tr>
+</table>
 
-<h2>Strategic Recommendations</h2>
+<br><hr><br>
+
+<h1 align="center">Strategic Recommendations</h1>
+
+<table align="center" width="1000">
+<tr>
+<td>
 
 <h3>Revenue Strategy</h3>
 <ul>
-    <li>Diversify revenue streams beyond Clothing.</li>
-    <li>Optimize pricing in high-demand categories.</li>
+<li>Diversify category-level revenue exposure.</li>
+<li>Optimize pricing for high-demand SKUs.</li>
 </ul>
 
 <h3>Marketing Strategy</h3>
 <ul>
-    <li>Prioritize Young Adults and Middle-Aaged segments.</li>
-    <li>Develop gender-specific promotional campaigns.</li>
-    <li>Increase new customer acquisition investment.</li>
+<li>Prioritize Young Adult and Middle-Aged segments.</li>
+<li>Develop gender-targeted campaigns.</li>
+<li>Strengthen new customer acquisition initiatives.</li>
 </ul>
 
 <h3>Loyalty & Subscription Strategy</h3>
 <ul>
-    <li>Focus on retention-driven benefits (early access, rewards).</li>
-    <li>Avoid heavy discount-based incentives.</li>
+<li>Focus on retention-based value (exclusive access, loyalty rewards).</li>
+<li>Reduce reliance on heavy discount incentives.</li>
 </ul>
 
 <h3>Product Strategy</h3>
 <ul>
-    <li>Prioritize inventory for top-rated and high-volume products.</li>
-    <li>Reduce emphasis on low-performing SKUs.</li>
+<li>Prioritize inventory for high-rated and high-volume items.</li>
+<li>Reduce exposure to low-performing SKUs.</li>
 </ul>
 
-<hr>
+</td>
+</tr>
+</table>
 
-<h2>Technology Stack</h2>
+<br><hr><br>
+
+<table align="center" width="1000">
+<tr>
+<td>
+
+<h2 align="center">Technology Stack</h2>
 
 <ul>
-    <li>SQL Server – Advanced Data Querying</li>
-    <li>Power BI – Executive Dashboard Visualization</li>
-    <li>Python (Jupyter Notebook) – Exploratory Data Analysis</li>
-    <li>GitHub – Documentation & Version Control</li>
+<li>SQL Server – Advanced Querying & Aggregation</li>
+<li>Power BI – Executive Dashboard Development</li>
+<li>Python (Jupyter Notebook) – Exploratory Analysis</li>
+<li>GitHub – Documentation & Version Control</li>
 </ul>
 
-<hr>
-
-<h2>Project Outcome</h2>
+<h2 align="center">Project Outcome</h2>
 
 <p>
-This engagement demonstrates the ability to translate transactional-level data into executive-level commercial insights.
+This engagement demonstrates the transformation of transactional customer data into executive-level commercial insights.
 </p>
 
 <p>
-The findings provide actionable recommendations to improve profitability, customer retention, 
-and long-term revenue sustainability.
+The findings provide actionable strategies to improve profitability, retention, and long-term revenue sustainability.
 </p>
+
+</td>
+</tr>
+</table>
+
+<br><br>
 
 </body>
 </html>
