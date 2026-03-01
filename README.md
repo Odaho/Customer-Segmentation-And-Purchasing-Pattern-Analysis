@@ -236,136 +236,67 @@ The objective of this report is to provide clear, data-backed strategic recommen
 
 <br><hr><br>
 
-<h1 align="center">Discount Sensitivity Analysis</h1>
-
-<div align="center">
-<img width="900" src="images/Discount_Rate_by_Product.png" alt="Discount Rate by Product Placeholder"/>
-</div>
-
-<table align="center" width="1000">
-<tr>
-<td>
+<h2>Business Risks Identified</h2>
 
 <ul>
-<li>High discount dependency observed in Hats, Sneakers, Coats, Sweaters, and Pants.</li>
-<li>Discount usage often coincides with above-average purchase amounts.</li>
+    <li>Revenue concentration in Clothing category</li>
+    <li>High discount dependency in specific products</li>
+    <li>Low new customer acquisition ratio</li>
+    <li>Revenue imbalance across demographic segments</li>
 </ul>
 
-<p><strong>Commercial Risk:</strong> Margin compression due to promotion reliance.</p>
-<p><strong>Recommendation:</strong> Implement price elasticity testing and targeted discounting strategy.</p>
+<hr>
 
-</td>
-</tr>
-</table>
-
-<br><hr><br>
-
-<h1 align="center">Shipping Behavior</h1>
-
-<div align="center">
-<img width="900" src="images/Shipping_vs_Average_Spend.png" alt="Shipping Type vs Average Spend Placeholder"/>
-</div>
-
-<table align="center" width="1000">
-<tr>
-<td>
-
-<ul>
-<li>Express shipping customers demonstrate slightly higher average purchase amounts.</li>
-</ul>
-
-<p><strong>Opportunity:</strong> Introduce threshold-based free express shipping to increase basket value.</p>
-
-</td>
-</tr>
-</table>
-
-<br><hr><br>
-
-<h1 align="center">Business Risks Identified</h1>
-
-<table align="center" width="1000">
-<tr>
-<td>
-
-<ul>
-<li>Revenue concentration within Clothing category.</li>
-<li>High discount dependency on selected SKUs.</li>
-<li>Low new customer acquisition proportion.</li>
-<li>Revenue imbalance across demographic segments.</li>
-</ul>
-
-</td>
-</tr>
-</table>
-
-<br><hr><br>
-
-<h1 align="center">Strategic Recommendations</h1>
-
-<table align="center" width="1000">
-<tr>
-<td>
+<h2>Strategic Recommendations</h2>
 
 <h3>Revenue Strategy</h3>
 <ul>
-<li>Diversify category-level revenue exposure.</li>
-<li>Optimize pricing for high-demand SKUs.</li>
+    <li>Diversify revenue streams beyond Clothing.</li>
+    <li>Optimize pricing in high-demand categories.</li>
 </ul>
 
 <h3>Marketing Strategy</h3>
 <ul>
-<li>Prioritize Young Adult and Middle-Aged segments.</li>
-<li>Develop gender-targeted campaigns.</li>
-<li>Strengthen new customer acquisition initiatives.</li>
+    <li>Prioritize Young Adults and Middle-Aaged segments.</li>
+    <li>Develop gender-specific promotional campaigns.</li>
+    <li>Increase new customer acquisition investment.</li>
 </ul>
 
 <h3>Loyalty & Subscription Strategy</h3>
 <ul>
-<li>Focus on retention-based value (exclusive access, loyalty rewards).</li>
-<li>Reduce reliance on heavy discount incentives.</li>
+    <li>Focus on retention-driven benefits (early access, rewards).</li>
+    <li>Avoid heavy discount-based incentives.</li>
 </ul>
 
 <h3>Product Strategy</h3>
 <ul>
-<li>Prioritize inventory for high-rated and high-volume items.</li>
-<li>Reduce exposure to low-performing SKUs.</li>
+    <li>Prioritize inventory for top-rated and high-volume products.</li>
+    <li>Reduce emphasis on low-performing SKUs.</li>
 </ul>
 
-</td>
-</tr>
-</table>
+<hr>
 
-<br><hr><br>
-
-<table align="center" width="1000">
-<tr>
-<td>
-
-<h2 align="center">Technology Stack</h2>
+<h2>Technology Stack</h2>
 
 <ul>
-<li>SQL Server – Advanced Querying & Aggregation</li>
-<li>Power BI – Executive Dashboard Development</li>
-<li>Python (Jupyter Notebook) – Exploratory Analysis</li>
-<li>GitHub – Documentation & Version Control</li>
+    <li>SQL Server – Advanced Data Querying</li>
+    <li>Power BI – Executive Dashboard Visualization</li>
+    <li>Python (Jupyter Notebook) – Exploratory Data Analysis</li>
+    <li>GitHub – Documentation & Version Control</li>
 </ul>
 
-<h2 align="center">Project Outcome</h2>
+<hr>
+
+<h2>Project Outcome</h2>
 
 <p>
-This engagement demonstrates the transformation of transactional customer data into executive-level commercial insights.
+This engagement demonstrates the ability to translate transactional-level data into executive-level commercial insights.
 </p>
 
 <p>
-The findings provide actionable strategies to improve profitability, retention, and long-term revenue sustainability.
+The findings provide actionable recommendations to improve profitability, customer retention, 
+and long-term revenue sustainability.
 </p>
-
-</td>
-</tr>
-</table>
-
-<br><br>
 
 </body>
 </html>
