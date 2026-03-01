@@ -195,7 +195,30 @@ The objective of this report is to provide clear, data-backed strategic recommen
 <img width="450" src="images/Oders By Subscription.png" alt="Orders by Subscription Placeholder"/>
 </div>
 
-<table align="center" width="1000">
+<table align='right' border="1" cellpadding="6">
+<tr>
+<th>Metric</th>
+<th>Subscribers</th>
+<th>Non-Subscribers</th>
+</tr>
+<tr>
+<td>Average Spend</td>
+<td>Similar</td>
+<td>Similar</td>
+</tr>
+<tr>
+<td>Repeat Purchase Rate</td>
+<td>Higher</td>
+<td>Lower</td>
+</tr>
+<tr>
+<td>Revenue Contribution</td>
+<td>27%</td>
+<td>73%</td>
+</tr>
+</table>
+
+<table align="left" width="1000">
 <tr>
 <td>
 
