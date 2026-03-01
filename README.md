@@ -147,7 +147,7 @@ The objective of this report is to provide clear, data-backed strategic recommen
 <h1 align="center">Customer Segmentation Analysis</h1>
 
 <div align="center">
-<img width="900" src="images/Customer Segmentation.png" alt="Customer Segmentation Placeholder"/>
+<img width="700" src="images/Customer Segmentation.png" alt="Customer Segmentation Placeholder"/>
 </div>
 
 <table align="center" width="1000">
